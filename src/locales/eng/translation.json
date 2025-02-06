@@ -1,0 +1,48 @@
+{
+    "navbar": {
+      "logo": "Fluffy Feast",
+      "foodTherapy": "Food Therapy",
+      "freshSnacks": "Fresh Snacks",
+      "petSupplies": "Pet Supplies",
+      "aboutUs": "About Us"
+    },
+    "home": {
+      "welcome": "Welcome to Fluffy Feast",
+      "mission": "Nourishing your pets with love and care. We're committed to providing the highest quality therapeutic and nutritional solutions for your beloved companions.",
+      "foodTherapy": "Food Therapy",
+      "therapyDescription": "Specialized nutrition for specific health conditions",
+      "petSnacks": "Pet Snacks",
+      "snacksDescription": "Healthy and delicious treats for your pets",
+      "petSupplies": "Pet Supplies",
+      "suppliesDescription": "Essential accessories and care products",
+      "featuredProducts": "Featured Products"
+    },
+    "story": {
+    "title": "Our Story",
+    "paragraph1": "Founded by Dr. Sarah Chen, a veterinarian with expertise in both Western and Traditional Chinese medicine, Fluffy Feast emerged from a vision to bridge ancient wisdom with modern pet care needs. Our journey began in 2020 when Dr. Chen noticed a growing need for natural, holistic supplements that could support pets' overall well-being.",
+    "paragraph2": "Today, we're proud to be at the forefront of integrative pet care, offering premium supplements that combine the best of Traditional Chinese Veterinary Medicine with contemporary scientific research. Our commitment to quality, safety, and efficacy has helped thousands of pets live healthier, more vibrant lives."
+  },
+  "benefits": {
+    "title": "Benefits of TCVM (Traditional Chinese Veterinary Medicine)",
+    "holistic": {
+      "title": "Holistic Wellness",
+      "description": "Traditional Chinese Veterinary Medicine takes a comprehensive approach to pet health, focusing on prevention and treating the root cause rather than just symptoms."
+    },
+    "ancient": {
+      "title": "Ancient Wisdom",
+      "description": "With over 3,000 years of documented success, TCVM brings time-tested healing principles to modern pet care."
+    },
+    "natural": {
+      "title": "Natural Ingredients",
+      "description": "Our supplements harness the power of natural herbs and ingredients, carefully selected for their therapeutic properties."
+    },
+    "gentle": {
+      "title": "Gentle Yet Effective",
+      "description": "TCVM treatments work in harmony with your pet's body, providing effective relief without harsh side effects."
+    }
+  },
+  "social": {
+    "title": "Connect With Us"
+  }
+    
+  }

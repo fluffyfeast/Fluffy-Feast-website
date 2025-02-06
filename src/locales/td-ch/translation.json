@@ -1,0 +1,47 @@
+{
+    "navbar": {
+      "logo": "Fluffy Feast",
+      "foodTherapy": "食物療法",
+      "freshSnacks": "新鮮零食",
+      "petSupplies": "寵物用品",
+      "aboutUs": "關於我們"
+    },
+    "home": {
+      "welcome": "歡迎來到Fluffy Feast",
+      "mission": "用愛和關懷滋養您的寵物。我們致力於為您心愛的伴侶提供最高質量的治療和營養解決方案。",
+      "foodTherapy": "食物療法",
+      "therapyDescription": "針對特定健康狀況的專業營養",
+      "petSnacks": "寵物零食",
+      "snacksDescription": "健康美味的寵物零食",
+      "petSupplies": "寵物用品",
+      "suppliesDescription": "必備的配件和護理產品",
+      "featuredProducts": "特色產品"
+    },
+    "story": {
+    "title": "我們的故事",
+    "paragraph1": "Fluffy Feast由陳醫生創立，她是一位在西醫和中醫方面都具有專業知識的獸醫。我們的願景是將古老的智慧與現代寵物護理需求相結合。2020年，陳醫生注意到市場對能夠支持寵物整體健康的天然全方位補充劑的需求日益增長，於是開始了我們的創業之旅。",
+    "paragraph2": "如今，我們很自豪能夠站在整合性寵物護理的前沿，提供將傳統中獸醫與現代科學研究相結合的優質補充劑。我們對質量、安全和功效的承諾已經幫助成千上萬的寵物過上更健康、更有活力的生活。"
+  },
+  "benefits": {
+    "title": "中獸醫的優勢",
+    "holistic": {
+      "title": "整體健康",
+      "description": "傳統中獸醫採用全面的方法來維護寵物健康，注重預防和治療根本原因，而不僅僅是症狀。"
+    },
+    "ancient": {
+      "title": "古老智慧",
+      "description": "擁有超過3000年的成功記錄，中獸醫將經過時間考驗的治療原則帶入現代寵物護理。"
+    },
+    "natural": {
+      "title": "天然成分",
+      "description": "我們的補充劑利用天然草藥和成分的功效，這些成分都經過精心挑選，具有治療特性。"
+    },
+    "gentle": {
+      "title": "溫和而有效",
+      "description": "中獸醫療法與寵物的身體和諧工作，提供有效的緩解，沒有嚴重的副作用。"
+    }
+  },
+  "social": {
+    "title": "關注我們"
+  }
+  }

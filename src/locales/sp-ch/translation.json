@@ -1,0 +1,47 @@
+{
+    "navbar": {
+      "logo": "Fluffy Feast",
+      "foodTherapy": "食物疗法",
+      "freshSnacks": "新鲜零食",
+      "petSupplies": "宠物用品",
+      "aboutUs": "关于我们"
+    },
+    "home": {
+      "welcome": "欢迎来到Fluffy Feast",
+      "mission": "用爱和关怀滋养您的宠物。我们致力于为您心爱的伴侣提供最高质量的治疗和营养解决方案。",
+      "foodTherapy": "食物疗法",
+      "therapyDescription": "针对特定健康状况的专业营养",
+      "petSnacks": "宠物零食",
+      "snacksDescription": "健康美味的宠物零食",
+      "petSupplies": "宠物用品",
+      "suppliesDescription": "必备的配件和护理产品",
+      "featuredProducts": "特色产品"
+    },
+    "story": {
+    "title": "我们的故事",
+    "paragraph1": "Fluffy Feast由陈医生创立，她是一位在西医和中医方面都具有专业知识的兽医。我们的愿景是将古老的智慧与现代宠物护理需求相结合。2020年，陈医生注意到市场对能够支持宠物整体健康的天然全方位补充剂的需求日益增长，于是开始了我们的创业之旅。",
+    "paragraph2": "如今，我们很自豪能够站在整合性宠物护理的前沿，提供将传统中兽医与现代科学研究相结合的优质补充剂。我们对质量、安全和功效的承诺已经帮助成千上万的宠物过上更健康、更有活力的生活。"
+  },
+  "benefits": {
+    "title": "中兽医的优势",
+    "holistic": {
+      "title": "整体健康",
+      "description": "传统中兽医采用全面的方法来维护宠物健康，注重预防和治疗根本原因，而不仅仅是症状。"
+    },
+    "ancient": {
+      "title": "古老智慧",
+      "description": "拥有超过3000年的成功记录，中兽医将经过时间考验的治疗原则带入现代宠物护理。"
+    },
+    "natural": {
+      "title": "天然成分",
+      "description": "我们的补充剂利用天然草药和成分的功效，这些成分都经过精心挑选，具有治疗特性。"
+    },
+    "gentle": {
+      "title": "温和而有效",
+      "description": "中兽医疗法与宠物的身体和谐工作，提供有效的缓解，没有严重的副作用。"
+    }
+  },
+  "social": {
+    "title": "关注我们"
+  }
+  }
